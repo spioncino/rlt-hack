@@ -21,6 +21,16 @@
 - JavaScript
 - Vue
 
+---
+### Запуск:
+1. Backend:
+- pip install -r requirements.txt
+- uvicorn app.main:app --host 0.0.0.0 --port 8000
+
+2. Frotend:
+- npm i
+- npm run dev
+
 ### Состав команды:
 1. **Денис Басанский** - ml инженер
 2. **Светлана Шубина** - продакт-менеджер/дизайнер
